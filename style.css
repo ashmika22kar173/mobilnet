@@ -1,0 +1,63 @@
+.headerdiv {
+    background-color: rgb(255, 255, 255);
+    color: rgb(196, 249, 3);
+}
+
+body {
+    font-family: 'Noto Serif';
+    background: white;
+
+}
+
+.headerdiv img {
+    width: 100px;
+
+
+}
+
+.maindiv label {
+    font-size: 20px;
+    background: tomato;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 10px aqua;
+    width: 300px;
+}
+
+#camera,
+#result {
+    width: 300px;
+    height: 350px;
+    border: 10px solid yellow;
+
+}
+
+.maindiv button {
+    width: 300px;
+    font-size: 15px;
+    box-shadow: 5px 5px 10px aqua;
+
+}
+
+.footer_div {
+    margin-bottom: 50px;
+
+}
+
+.footer_div h2 {
+    background-color: chartreuse;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px aqua;
+}
+
+.footer_div img {
+    width: 60px;
+}
+
+.maindiv {
+    background-color: lightgreen;
+    padding: 10px;
+    border: 10px solid lightpink;
+    margin-top: 150px;
+}
